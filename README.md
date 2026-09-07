@@ -899,10 +899,14 @@ The project follows several basic container security practices:
 Screenshots can be added to this section after placing them inside the `screenshots/` directory.
 
 - Application Dashboard
+  ![Application Dashboard](screenshots/frontend.png)
+  
 - Docker Services
+  ![Docker Services](screenshots/docker-compose.png)
+  
 - API Health
-- Persistence Test
-
+  ![API Health](screenshots/api-health.png)
+  
 ---
 
 ## 28. Final Architecture
